@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./p1orationesrecog02demouoft_0001.png"; bbox 0 0 1846 2907; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 202 85 317 743">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 202 85 317 743">
+     <span class='ocr_line' id='line_1_1' title="bbox 202 85 317 743; baseline -164.5 329"><span class='ocrx_word' id='word_1_1' title='bbox 202 85 317 743; x_wconf 47' lang='lat' dir='ltr'>{23{3:112}-{Z:2{ZZZ—{3</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 2523 0 2787">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 2523 0 2787">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 2523 0 2787"><span class='ocrx_word' id='word_1_2' title='bbox 0 2523 0 2787; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 153 208 194 627">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 153 208 194 627">
+     <span class='ocr_line' id='line_1_3' title="bbox 153 208 194 627; baseline -139.667 0"><span class='ocrx_word' id='word_1_3' title='bbox 155 208 194 231; x_wconf 82' lang='grc' dir='ltr'>ω</span> <span class='ocrx_word' id='word_1_4' title='bbox 155 251 194 346; x_wconf 48' lang='grc' dir='ltr'>3ωῴ</span> <span class='ocrx_word' id='word_1_5' title='bbox 154 371 193 504; x_wconf 60' lang='grc' dir='ltr'>ἓωὲ</span> <span class='ocrx_word' id='word_1_6' title='bbox 153 521 192 627; x_wconf 46' lang='lat' dir='ltr'>R33</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
